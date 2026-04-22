@@ -48,6 +48,7 @@
     <Compile Include="AlarmProcessor.cs" />
     <Compile Include="AutomationManager.cs" />
     <Compile Include="EGUConverter.cs" />
+    <Compile Include="FunctionFactory.cs" />
     <Compile Include="ProcessingManager.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

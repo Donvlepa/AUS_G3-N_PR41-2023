@@ -1,114 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Pavle Stefanovic\\Desktop\\dCom\\",
+  "WorkspaceRootPath": "C:\\Users\\Pavle Stefanovic\\Desktop\\FTN\\III Godina\\AUS\\Projekat\\AUS_G3-N_PR41-2023\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A61FACB3-147E-4FD9-88C1-A3F226157C23}|ProcessingModule\\ProcessingModule.csproj|c:\\users\\pavle stefanovic\\desktop\\dcom\\processingmodule\\acquisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A61FACB3-147E-4FD9-88C1-A3F226157C23}|ProcessingModule\\ProcessingModule.csproj|solutionrelative:processingmodule\\acquisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|c:\\users\\pavle stefanovic\\desktop\\ftn\\iii godina\\aus\\projekat\\aus_g3-n_pr41-2023\\modbus\\modbusfunctions\\readcoilsfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|solutionrelative:modbus\\modbusfunctions\\readcoilsfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|c:\\users\\pavle stefanovic\\desktop\\dcom\\dcom\\rtucfg.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|c:\\users\\pavle stefanovic\\desktop\\ftn\\iii godina\\aus\\projekat\\aus_g3-n_pr41-2023\\dcom\\rtucfg.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\rtucfg.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|c:\\users\\pavle stefanovic\\desktop\\dcom\\modbus\\functionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|solutionrelative:modbus\\functionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A61FACB3-147E-4FD9-88C1-A3F226157C23}|ProcessingModule\\ProcessingModule.csproj|c:\\users\\pavle stefanovic\\desktop\\dcom\\processingmodule\\automationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A61FACB3-147E-4FD9-88C1-A3F226157C23}|ProcessingModule\\ProcessingModule.csproj|solutionrelative:processingmodule\\automationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A61FACB3-147E-4FD9-88C1-A3F226157C23}|ProcessingModule\\ProcessingModule.csproj|c:\\users\\pavle stefanovic\\desktop\\dcom\\processingmodule\\eguconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A61FACB3-147E-4FD9-88C1-A3F226157C23}|ProcessingModule\\ProcessingModule.csproj|solutionrelative:processingmodule\\eguconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A61FACB3-147E-4FD9-88C1-A3F226157C23}|ProcessingModule\\ProcessingModule.csproj|c:\\users\\pavle stefanovic\\desktop\\dcom\\processingmodule\\processingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A61FACB3-147E-4FD9-88C1-A3F226157C23}|ProcessingModule\\ProcessingModule.csproj|solutionrelative:processingmodule\\processingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A61FACB3-147E-4FD9-88C1-A3F226157C23}|ProcessingModule\\ProcessingModule.csproj|c:\\users\\pavle stefanovic\\desktop\\dcom\\processingmodule\\alarmprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A61FACB3-147E-4FD9-88C1-A3F226157C23}|ProcessingModule\\ProcessingModule.csproj|solutionrelative:processingmodule\\alarmprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|c:\\users\\pavle stefanovic\\desktop\\dcom\\modbus\\modbusfunctions\\modbusfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|solutionrelative:modbus\\modbusfunctions\\modbusfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|c:\\users\\pavle stefanovic\\desktop\\dcom\\modbus\\functionparameters\\modbuswritecommandparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|solutionrelative:modbus\\functionparameters\\modbuswritecommandparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|c:\\users\\pavle stefanovic\\desktop\\dcom\\modbus\\functionparameters\\modbusreadcommandparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|solutionrelative:modbus\\functionparameters\\modbusreadcommandparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|c:\\users\\pavle stefanovic\\desktop\\dcom\\modbus\\functionparameters\\modbuscommandparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|solutionrelative:modbus\\functionparameters\\modbuscommandparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|c:\\users\\pavle stefanovic\\desktop\\dcom\\modbus\\connection\\tcpconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|solutionrelative:modbus\\connection\\tcpconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|c:\\users\\pavle stefanovic\\desktop\\dcom\\modbus\\connection\\iconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|solutionrelative:modbus\\connection\\iconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|c:\\users\\pavle stefanovic\\desktop\\dcom\\modbus\\connection\\functionexecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|solutionrelative:modbus\\connection\\functionexecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|c:\\users\\pavle stefanovic\\desktop\\dcom\\dcom\\viewmodel\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\viewmodel\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|c:\\users\\pavle stefanovic\\desktop\\dcom\\dcom\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|c:\\users\\pavle stefanovic\\desktop\\dcom\\dcom\\utils\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\utils\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|c:\\users\\pavle stefanovic\\desktop\\dcom\\dcom\\exceptions\\configurationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\exceptions\\configurationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|c:\\users\\pavle stefanovic\\desktop\\dcom\\dcom\\converters\\stringtovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\converters\\stringtovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|c:\\users\\pavle stefanovic\\desktop\\dcom\\dcom\\converters\\pointtypetovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\converters\\pointtypetovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|c:\\users\\pavle stefanovic\\desktop\\dcom\\dcom\\converters\\connectionstatetocolorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\converters\\connectionstatetocolorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|c:\\users\\pavle stefanovic\\desktop\\dcom\\dcom\\converters\\alarmtobackgroundcolorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\converters\\alarmtobackgroundcolorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|c:\\users\\pavle stefanovic\\desktop\\dcom\\dcom\\configuration\\configreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|C:\\Users\\Pavle Stefanovic\\Desktop\\FTN\\III Godina\\AUS\\Projekat\\AUS_G3-N_PR41-2023\\dcom\\configuration\\configreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\configuration\\configreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|c:\\users\\pavle stefanovic\\desktop\\dcom\\dcom\\configuration\\configitemequalitycomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\configuration\\configitemequalitycomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|c:\\users\\pavle stefanovic\\desktop\\dcom\\dcom\\configuration\\configitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\configuration\\configitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|c:\\users\\pavle stefanovic\\desktop\\dcom\\common\\ianalogpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|solutionrelative:common\\ianalogpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|c:\\users\\pavle stefanovic\\desktop\\dcom\\common\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|solutionrelative:common\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -120,344 +24,6 @@
           "DockedWidth": 200,
           "SelectedChildIndex": 6,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RtuCfg.txt",
-              "DocumentMoniker": "C:\\Users\\Pavle Stefanovic\\Desktop\\dCom\\dCom\\RtuCfg.txt",
-              "RelativeDocumentMoniker": "dCom\\RtuCfg.txt",
-              "ToolTip": "C:\\Users\\Pavle Stefanovic\\Desktop\\dCom\\dCom\\RtuCfg.txt",
-              "RelativeToolTip": "dCom\\RtuCfg.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2026-04-20T18:40:13.148Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FunctionFactory.cs",
-              "DocumentMoniker": "C:\\Users\\Pavle Stefanovic\\Desktop\\dCom\\Modbus\\FunctionFactory.cs",
-              "RelativeDocumentMoniker": "Modbus\\FunctionFactory.cs",
-              "ToolTip": "C:\\Users\\Pavle Stefanovic\\Desktop\\dCom\\Modbus\\FunctionFactory.cs",
-              "RelativeToolTip": "Modbus\\FunctionFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T18:34:38.544Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ProcessingManager.cs",
-              "DocumentMoniker": "C:\\Users\\Pavle Stefanovic\\Desktop\\dCom\\ProcessingModule\\ProcessingManager.cs",
-              "RelativeDocumentMoniker": "ProcessingModule\\ProcessingManager.cs",
-              "ToolTip": "C:\\Users\\Pavle Stefanovic\\Desktop\\dCom\\ProcessingModule\\ProcessingManager.cs",
-              "RelativeToolTip": "ProcessingModule\\ProcessingManager.cs",
-              "ViewState": "AgIAAIAAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T18:32:56.406Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EGUConverter.cs",
-              "DocumentMoniker": "C:\\Users\\Pavle Stefanovic\\Desktop\\dCom\\ProcessingModule\\EGUConverter.cs",
-              "RelativeDocumentMoniker": "ProcessingModule\\EGUConverter.cs",
-              "ToolTip": "C:\\Users\\Pavle Stefanovic\\Desktop\\dCom\\ProcessingModule\\EGUConverter.cs",
-              "RelativeToolTip": "ProcessingModule\\EGUConverter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T18:32:54.421Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AutomationManager.cs",
-              "DocumentMoniker": "C:\\Users\\Pavle Stefanovic\\Desktop\\dCom\\ProcessingModule\\AutomationManager.cs",
-              "RelativeDocumentMoniker": "ProcessingModule\\AutomationManager.cs",
-              "ToolTip": "C:\\Users\\Pavle Stefanovic\\Desktop\\dCom\\ProcessingModule\\AutomationManager.cs",
-              "RelativeToolTip": "ProcessingModule\\AutomationManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T18:32:51.401Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AlarmProcessor.cs",
-              "DocumentMoniker": "C:\\Users\\Pavle Stefanovic\\Desktop\\dCom\\ProcessingModule\\AlarmProcessor.cs",
-              "RelativeDocumentMoniker": "ProcessingModule\\AlarmProcessor.cs",
-              "ToolTip": "C:\\Users\\Pavle Stefanovic\\Desktop\\dCom\\ProcessingModule\\AlarmProcessor.cs",
-              "RelativeToolTip": "ProcessingModule\\AlarmProcessor.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T18:32:49.741Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Acquisitor.cs",
-              "DocumentMoniker": "C:\\Users\\Pavle Stefanovic\\Desktop\\dCom\\ProcessingModule\\Acquisitor.cs",
-              "RelativeDocumentMoniker": "ProcessingModule\\Acquisitor.cs",
-              "ToolTip": "C:\\Users\\Pavle Stefanovic\\Desktop\\dCom\\ProcessingModule\\Acquisitor.cs",
-              "RelativeToolTip": "ProcessingModule\\Acquisitor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T18:32:47.74Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ModbusFunction.cs",
-              "DocumentMoniker": "C:\\Users\\Pavle Stefanovic\\Desktop\\dCom\\Modbus\\ModbusFunctions\\ModbusFunction.cs",
-              "RelativeDocumentMoniker": "Modbus\\ModbusFunctions\\ModbusFunction.cs",
-              "ToolTip": "C:\\Users\\Pavle Stefanovic\\Desktop\\dCom\\Modbus\\ModbusFunctions\\ModbusFunction.cs",
-              "RelativeToolTip": "Modbus\\ModbusFunctions\\ModbusFunction.cs",
-              "ViewState": "AgIAAF8AAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T18:32:42.027Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ModbusWriteCommandParameters.cs",
-              "DocumentMoniker": "C:\\Users\\Pavle Stefanovic\\Desktop\\dCom\\Modbus\\FunctionParameters\\ModbusWriteCommandParameters.cs",
-              "RelativeDocumentMoniker": "Modbus\\FunctionParameters\\ModbusWriteCommandParameters.cs",
-              "ToolTip": "C:\\Users\\Pavle Stefanovic\\Desktop\\dCom\\Modbus\\FunctionParameters\\ModbusWriteCommandParameters.cs",
-              "RelativeToolTip": "Modbus\\FunctionParameters\\ModbusWriteCommandParameters.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T18:32:38.601Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ModbusReadCommandParameters.cs",
-              "DocumentMoniker": "C:\\Users\\Pavle Stefanovic\\Desktop\\dCom\\Modbus\\FunctionParameters\\ModbusReadCommandParameters.cs",
-              "RelativeDocumentMoniker": "Modbus\\FunctionParameters\\ModbusReadCommandParameters.cs",
-              "ToolTip": "C:\\Users\\Pavle Stefanovic\\Desktop\\dCom\\Modbus\\FunctionParameters\\ModbusReadCommandParameters.cs",
-              "RelativeToolTip": "Modbus\\FunctionParameters\\ModbusReadCommandParameters.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T18:32:35.792Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ModbusCommandParameters.cs",
-              "DocumentMoniker": "C:\\Users\\Pavle Stefanovic\\Desktop\\dCom\\Modbus\\FunctionParameters\\ModbusCommandParameters.cs",
-              "RelativeDocumentMoniker": "Modbus\\FunctionParameters\\ModbusCommandParameters.cs",
-              "ToolTip": "C:\\Users\\Pavle Stefanovic\\Desktop\\dCom\\Modbus\\FunctionParameters\\ModbusCommandParameters.cs",
-              "RelativeToolTip": "Modbus\\FunctionParameters\\ModbusCommandParameters.cs",
-              "ViewState": "AgIAAFAAAAAAAAAAAAAIwG0AAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T18:32:25.938Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "TCPConnection.cs",
-              "DocumentMoniker": "C:\\Users\\Pavle Stefanovic\\Desktop\\dCom\\Modbus\\Connection\\TCPConnection.cs",
-              "RelativeDocumentMoniker": "Modbus\\Connection\\TCPConnection.cs",
-              "ToolTip": "C:\\Users\\Pavle Stefanovic\\Desktop\\dCom\\Modbus\\Connection\\TCPConnection.cs",
-              "RelativeToolTip": "Modbus\\Connection\\TCPConnection.cs",
-              "ViewState": "AgIAAFgAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T18:32:21.087Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IConnection.cs",
-              "DocumentMoniker": "C:\\Users\\Pavle Stefanovic\\Desktop\\dCom\\Modbus\\Connection\\IConnection.cs",
-              "RelativeDocumentMoniker": "Modbus\\Connection\\IConnection.cs",
-              "ToolTip": "C:\\Users\\Pavle Stefanovic\\Desktop\\dCom\\Modbus\\Connection\\IConnection.cs",
-              "RelativeToolTip": "Modbus\\Connection\\IConnection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T18:32:18.583Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "FunctionExecutor.cs",
-              "DocumentMoniker": "C:\\Users\\Pavle Stefanovic\\Desktop\\dCom\\Modbus\\Connection\\FunctionExecutor.cs",
-              "RelativeDocumentMoniker": "Modbus\\Connection\\FunctionExecutor.cs",
-              "ToolTip": "C:\\Users\\Pavle Stefanovic\\Desktop\\dCom\\Modbus\\Connection\\FunctionExecutor.cs",
-              "RelativeToolTip": "Modbus\\Connection\\FunctionExecutor.cs",
-              "ViewState": "AgIAAIAAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T18:32:14.638Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ViewModelBase.cs",
-              "DocumentMoniker": "C:\\Users\\Pavle Stefanovic\\Desktop\\dCom\\dCom\\ViewModel\\ViewModelBase.cs",
-              "RelativeDocumentMoniker": "dCom\\ViewModel\\ViewModelBase.cs",
-              "ToolTip": "C:\\Users\\Pavle Stefanovic\\Desktop\\dCom\\dCom\\ViewModel\\ViewModelBase.cs",
-              "RelativeToolTip": "dCom\\ViewModel\\ViewModelBase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T18:32:07.997Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "MainViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Pavle Stefanovic\\Desktop\\dCom\\dCom\\ViewModel\\MainViewModel.cs",
-              "RelativeDocumentMoniker": "dCom\\ViewModel\\MainViewModel.cs",
-              "ToolTip": "C:\\Users\\Pavle Stefanovic\\Desktop\\dCom\\dCom\\ViewModel\\MainViewModel.cs",
-              "RelativeToolTip": "dCom\\ViewModel\\MainViewModel.cs",
-              "ViewState": "AgIAALsAAAAAAAAAAAAAwMcAAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T18:31:53.273Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "RelayCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Pavle Stefanovic\\Desktop\\dCom\\dCom\\Utils\\RelayCommand.cs",
-              "RelativeDocumentMoniker": "dCom\\Utils\\RelayCommand.cs",
-              "ToolTip": "C:\\Users\\Pavle Stefanovic\\Desktop\\dCom\\dCom\\Utils\\RelayCommand.cs",
-              "RelativeToolTip": "dCom\\Utils\\RelayCommand.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T18:31:41.287Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ConfigurationException.cs",
-              "DocumentMoniker": "C:\\Users\\Pavle Stefanovic\\Desktop\\dCom\\dCom\\Exceptions\\ConfigurationException.cs",
-              "RelativeDocumentMoniker": "dCom\\Exceptions\\ConfigurationException.cs",
-              "ToolTip": "C:\\Users\\Pavle Stefanovic\\Desktop\\dCom\\dCom\\Exceptions\\ConfigurationException.cs",
-              "RelativeToolTip": "dCom\\Exceptions\\ConfigurationException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T18:31:37.474Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "StringToVisibilityConverter.cs",
-              "DocumentMoniker": "C:\\Users\\Pavle Stefanovic\\Desktop\\dCom\\dCom\\Converters\\StringToVisibilityConverter.cs",
-              "RelativeDocumentMoniker": "dCom\\Converters\\StringToVisibilityConverter.cs",
-              "ToolTip": "C:\\Users\\Pavle Stefanovic\\Desktop\\dCom\\dCom\\Converters\\StringToVisibilityConverter.cs",
-              "RelativeToolTip": "dCom\\Converters\\StringToVisibilityConverter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T18:31:35.16Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "PointTypeToVisibilityConverter.cs",
-              "DocumentMoniker": "C:\\Users\\Pavle Stefanovic\\Desktop\\dCom\\dCom\\Converters\\PointTypeToVisibilityConverter.cs",
-              "RelativeDocumentMoniker": "dCom\\Converters\\PointTypeToVisibilityConverter.cs",
-              "ToolTip": "C:\\Users\\Pavle Stefanovic\\Desktop\\dCom\\dCom\\Converters\\PointTypeToVisibilityConverter.cs",
-              "RelativeToolTip": "dCom\\Converters\\PointTypeToVisibilityConverter.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T18:31:32.909Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ConnectionStateToColorConverter.cs",
-              "DocumentMoniker": "C:\\Users\\Pavle Stefanovic\\Desktop\\dCom\\dCom\\Converters\\ConnectionStateToColorConverter.cs",
-              "RelativeDocumentMoniker": "dCom\\Converters\\ConnectionStateToColorConverter.cs",
-              "ToolTip": "C:\\Users\\Pavle Stefanovic\\Desktop\\dCom\\dCom\\Converters\\ConnectionStateToColorConverter.cs",
-              "RelativeToolTip": "dCom\\Converters\\ConnectionStateToColorConverter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T18:31:30.35Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "AlarmToBackgroundColorConverter.cs",
-              "DocumentMoniker": "C:\\Users\\Pavle Stefanovic\\Desktop\\dCom\\dCom\\Converters\\AlarmToBackgroundColorConverter.cs",
-              "RelativeDocumentMoniker": "dCom\\Converters\\AlarmToBackgroundColorConverter.cs",
-              "ToolTip": "C:\\Users\\Pavle Stefanovic\\Desktop\\dCom\\dCom\\Converters\\AlarmToBackgroundColorConverter.cs",
-              "RelativeToolTip": "dCom\\Converters\\AlarmToBackgroundColorConverter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T18:31:28.261Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "ConfigReader.cs",
-              "DocumentMoniker": "C:\\Users\\Pavle Stefanovic\\Desktop\\dCom\\dCom\\Configuration\\ConfigReader.cs",
-              "RelativeDocumentMoniker": "dCom\\Configuration\\ConfigReader.cs",
-              "ToolTip": "C:\\Users\\Pavle Stefanovic\\Desktop\\dCom\\dCom\\Configuration\\ConfigReader.cs",
-              "RelativeToolTip": "dCom\\Configuration\\ConfigReader.cs",
-              "ViewState": "AgIAAJQAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T18:31:19.618Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "ConfigItemEqualityComparer.cs",
-              "DocumentMoniker": "C:\\Users\\Pavle Stefanovic\\Desktop\\dCom\\dCom\\Configuration\\ConfigItemEqualityComparer.cs",
-              "RelativeDocumentMoniker": "dCom\\Configuration\\ConfigItemEqualityComparer.cs",
-              "ToolTip": "C:\\Users\\Pavle Stefanovic\\Desktop\\dCom\\dCom\\Configuration\\ConfigItemEqualityComparer.cs",
-              "RelativeToolTip": "dCom\\Configuration\\ConfigItemEqualityComparer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T18:31:17.763Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "ConfigItem.cs",
-              "DocumentMoniker": "C:\\Users\\Pavle Stefanovic\\Desktop\\dCom\\dCom\\Configuration\\ConfigItem.cs",
-              "RelativeDocumentMoniker": "dCom\\Configuration\\ConfigItem.cs",
-              "ToolTip": "C:\\Users\\Pavle Stefanovic\\Desktop\\dCom\\dCom\\Configuration\\ConfigItem.cs",
-              "RelativeToolTip": "dCom\\Configuration\\ConfigItem.cs",
-              "ViewState": "AgIAABMBAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T18:31:13.939Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "IAnalogPoint.cs",
-              "DocumentMoniker": "C:\\Users\\Pavle Stefanovic\\Desktop\\dCom\\Common\\IAnalogPoint.cs",
-              "RelativeDocumentMoniker": "Common\\IAnalogPoint.cs",
-              "ToolTip": "C:\\Users\\Pavle Stefanovic\\Desktop\\dCom\\Common\\IAnalogPoint.cs",
-              "RelativeToolTip": "Common\\IAnalogPoint.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T18:31:08.68Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -484,15 +50,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Enums.cs",
-              "DocumentMoniker": "C:\\Users\\Pavle Stefanovic\\Desktop\\dCom\\Common\\Enums.cs",
-              "RelativeDocumentMoniker": "Common\\Enums.cs",
-              "ToolTip": "C:\\Users\\Pavle Stefanovic\\Desktop\\dCom\\Common\\Enums.cs",
-              "RelativeToolTip": "Common\\Enums.cs",
+              "DocumentIndex": 0,
+              "Title": "ReadCoilsFunction.cs",
+              "DocumentMoniker": "C:\\Users\\Pavle Stefanovic\\Desktop\\FTN\\III Godina\\AUS\\Projekat\\AUS_G3-N_PR41-2023\\Modbus\\ModbusFunctions\\ReadCoilsFunction.cs",
+              "RelativeDocumentMoniker": "Modbus\\ModbusFunctions\\ReadCoilsFunction.cs",
+              "ToolTip": "C:\\Users\\Pavle Stefanovic\\Desktop\\FTN\\III Godina\\AUS\\Projekat\\AUS_G3-N_PR41-2023\\Modbus\\ModbusFunctions\\ReadCoilsFunction.cs",
+              "RelativeToolTip": "Modbus\\ModbusFunctions\\ReadCoilsFunction.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T18:31:02.365Z",
+              "WhenOpened": "2026-04-22T18:06:44.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConfigReader.cs",
+              "DocumentMoniker": "C:\\Users\\Pavle Stefanovic\\Desktop\\FTN\\III Godina\\AUS\\Projekat\\AUS_G3-N_PR41-2023\\dCom\\Configuration\\ConfigReader.cs",
+              "RelativeDocumentMoniker": "dCom\\Configuration\\ConfigReader.cs",
+              "ToolTip": "C:\\Users\\Pavle Stefanovic\\Desktop\\FTN\\III Godina\\AUS\\Projekat\\AUS_G3-N_PR41-2023\\dCom\\Configuration\\ConfigReader.cs",
+              "RelativeToolTip": "dCom\\Configuration\\ConfigReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T23:20:41.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RtuCfg.txt",
+              "DocumentMoniker": "C:\\Users\\Pavle Stefanovic\\Desktop\\FTN\\III Godina\\AUS\\Projekat\\AUS_G3-N_PR41-2023\\dCom\\RtuCfg.txt",
+              "RelativeDocumentMoniker": "dCom\\RtuCfg.txt",
+              "ToolTip": "C:\\Users\\Pavle Stefanovic\\Desktop\\FTN\\III Godina\\AUS\\Projekat\\AUS_G3-N_PR41-2023\\dCom\\RtuCfg.txt",
+              "RelativeToolTip": "dCom\\RtuCfg.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-04-21T21:27:16.126Z",
               "EditorCaption": ""
             }
           ]

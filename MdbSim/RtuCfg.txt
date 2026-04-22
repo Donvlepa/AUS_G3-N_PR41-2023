@@ -7,3 +7,5 @@ DO_REG  1 1302  0  0      1     0  DO  @VentilV1   2
 DO_REG  2 1305  0  0      1     0  DO  @Prekidaci  2
 HR_INT  1 300   0  0    300   200  AO  @N1         1
 
+
+

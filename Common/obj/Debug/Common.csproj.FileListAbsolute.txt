@@ -3,3 +3,9 @@ C:\Users\Racunar1\Desktop\Ognjen\SCADA\dCom\Common\bin\Debug\Common.pdb
 C:\Users\Racunar1\Desktop\Ognjen\SCADA\dCom\Common\obj\Debug\Common.dll
 C:\Users\Racunar1\Desktop\Ognjen\SCADA\dCom\Common\obj\Debug\Common.pdb
 C:\Users\Racunar1\Desktop\Ognjen\SCADA\dCom\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\Pavle Stefanovic\Desktop\FTN\III Godina\AUS\Projekat\AUS_G3-N_PR41-2023\Common\bin\Debug\Common.dll
+C:\Users\Pavle Stefanovic\Desktop\FTN\III Godina\AUS\Projekat\AUS_G3-N_PR41-2023\Common\bin\Debug\Common.pdb
+C:\Users\Pavle Stefanovic\Desktop\FTN\III Godina\AUS\Projekat\AUS_G3-N_PR41-2023\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\Pavle Stefanovic\Desktop\FTN\III Godina\AUS\Projekat\AUS_G3-N_PR41-2023\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Pavle Stefanovic\Desktop\FTN\III Godina\AUS\Projekat\AUS_G3-N_PR41-2023\Common\obj\Debug\Common.dll
+C:\Users\Pavle Stefanovic\Desktop\FTN\III Godina\AUS\Projekat\AUS_G3-N_PR41-2023\Common\obj\Debug\Common.pdb

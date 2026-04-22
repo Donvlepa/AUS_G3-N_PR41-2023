@@ -1,7 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Pavle Stefanovic\\Desktop\\dCom\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Pavle Stefanovic\\Desktop\\FTN\\III Godina\\AUS\\Projekat\\AUS_G3-N_PR41-2023\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|c:\\users\\pavle stefanovic\\desktop\\ftn\\iii godina\\aus\\projekat\\aus_g3-n_pr41-2023\\dcom\\rtucfg.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\rtucfg.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|C:\\Users\\Pavle Stefanovic\\Desktop\\FTN\\III Godina\\AUS\\Projekat\\AUS_G3-N_PR41-2023\\dcom\\configuration\\configreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\configuration\\configreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,6 +43,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConfigReader.cs",
+              "DocumentMoniker": "C:\\Users\\Pavle Stefanovic\\Desktop\\FTN\\III Godina\\AUS\\Projekat\\AUS_G3-N_PR41-2023\\dCom\\Configuration\\ConfigReader.cs",
+              "RelativeDocumentMoniker": "dCom\\Configuration\\ConfigReader.cs",
+              "ToolTip": "C:\\Users\\Pavle Stefanovic\\Desktop\\FTN\\III Godina\\AUS\\Projekat\\AUS_G3-N_PR41-2023\\dCom\\Configuration\\ConfigReader.cs",
+              "RelativeToolTip": "dCom\\Configuration\\ConfigReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T23:20:41.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RtuCfg.txt",
+              "DocumentMoniker": "C:\\Users\\Pavle Stefanovic\\Desktop\\FTN\\III Godina\\AUS\\Projekat\\AUS_G3-N_PR41-2023\\dCom\\RtuCfg.txt",
+              "RelativeDocumentMoniker": "dCom\\RtuCfg.txt",
+              "ToolTip": "C:\\Users\\Pavle Stefanovic\\Desktop\\FTN\\III Godina\\AUS\\Projekat\\AUS_G3-N_PR41-2023\\dCom\\RtuCfg.txt",
+              "RelativeToolTip": "dCom\\RtuCfg.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-04-21T21:27:16.126Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,0 +1,9 @@
+C:\Users\Pavle Stefanovic\Desktop\FTN\III Godina\AUS\Projekat\AUS_G3-N_PR41-2023\Modbus\bin\Debug\Modbus.dll
+C:\Users\Pavle Stefanovic\Desktop\FTN\III Godina\AUS\Projekat\AUS_G3-N_PR41-2023\Modbus\bin\Debug\Modbus.pdb
+C:\Users\Pavle Stefanovic\Desktop\FTN\III Godina\AUS\Projekat\AUS_G3-N_PR41-2023\Modbus\bin\Debug\Common.dll
+C:\Users\Pavle Stefanovic\Desktop\FTN\III Godina\AUS\Projekat\AUS_G3-N_PR41-2023\Modbus\bin\Debug\Common.pdb
+C:\Users\Pavle Stefanovic\Desktop\FTN\III Godina\AUS\Projekat\AUS_G3-N_PR41-2023\Modbus\obj\Debug\Modbus.csproj.AssemblyReference.cache
+C:\Users\Pavle Stefanovic\Desktop\FTN\III Godina\AUS\Projekat\AUS_G3-N_PR41-2023\Modbus\obj\Debug\Modbus.csproj.CoreCompileInputs.cache
+C:\Users\Pavle Stefanovic\Desktop\FTN\III Godina\AUS\Projekat\AUS_G3-N_PR41-2023\Modbus\obj\Debug\Modbus.csproj.Up2Date
+C:\Users\Pavle Stefanovic\Desktop\FTN\III Godina\AUS\Projekat\AUS_G3-N_PR41-2023\Modbus\obj\Debug\Modbus.dll
+C:\Users\Pavle Stefanovic\Desktop\FTN\III Godina\AUS\Projekat\AUS_G3-N_PR41-2023\Modbus\obj\Debug\Modbus.pdb
