@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Pavle Stefanovic\\Desktop\\FTN\\III Godina\\AUS\\Projekat\\AUS_G3-N_PR41-2023\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|c:\\users\\pavle stefanovic\\desktop\\ftn\\iii godina\\aus\\projekat\\aus_g3-n_pr41-2023\\dcom\\rtucfg.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\rtucfg.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|c:\\users\\pavle stefanovic\\desktop\\ftn\\iii godina\\aus\\projekat\\aus_g3-n_pr41-2023\\modbus\\modbusfunctions\\writesinglecoilfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|solutionrelative:modbus\\modbusfunctions\\writesinglecoilfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -47,28 +51,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "RtuCfg.txt",
+              "DocumentMoniker": "C:\\Users\\Pavle Stefanovic\\Desktop\\FTN\\III Godina\\AUS\\Projekat\\AUS_G3-N_PR41-2023\\dCom\\RtuCfg.txt",
+              "RelativeDocumentMoniker": "dCom\\RtuCfg.txt",
+              "ToolTip": "C:\\Users\\Pavle Stefanovic\\Desktop\\FTN\\III Godina\\AUS\\Projekat\\AUS_G3-N_PR41-2023\\dCom\\RtuCfg.txt",
+              "RelativeToolTip": "dCom\\RtuCfg.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-04-23T16:54:28.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "WriteSingleCoilFunction.cs",
               "DocumentMoniker": "C:\\Users\\Pavle Stefanovic\\Desktop\\FTN\\III Godina\\AUS\\Projekat\\AUS_G3-N_PR41-2023\\Modbus\\ModbusFunctions\\WriteSingleCoilFunction.cs",
               "RelativeDocumentMoniker": "Modbus\\ModbusFunctions\\WriteSingleCoilFunction.cs",
               "ToolTip": "C:\\Users\\Pavle Stefanovic\\Desktop\\FTN\\III Godina\\AUS\\Projekat\\AUS_G3-N_PR41-2023\\Modbus\\ModbusFunctions\\WriteSingleCoilFunction.cs",
               "RelativeToolTip": "Modbus\\ModbusFunctions\\WriteSingleCoilFunction.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAwDcAAABPAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADYAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-23T13:22:41.216Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ReadCoilsFunction.cs",
               "DocumentMoniker": "C:\\Users\\Pavle Stefanovic\\Desktop\\FTN\\III Godina\\AUS\\Projekat\\AUS_G3-N_PR41-2023\\Modbus\\ModbusFunctions\\ReadCoilsFunction.cs",
               "RelativeDocumentMoniker": "Modbus\\ModbusFunctions\\ReadCoilsFunction.cs",
               "ToolTip": "C:\\Users\\Pavle Stefanovic\\Desktop\\FTN\\III Godina\\AUS\\Projekat\\AUS_G3-N_PR41-2023\\Modbus\\ModbusFunctions\\ReadCoilsFunction.cs",
               "RelativeToolTip": "Modbus\\ModbusFunctions\\ReadCoilsFunction.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAkwEsAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAkwDgAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T18:06:44.022Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-22T18:06:44.022Z"
             }
           ]
         }
